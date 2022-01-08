@@ -5,3 +5,4 @@ Project ini dibuat sebagai Tugas Machine-Learning-Classification-2 saya, **Irdia
 ## Dependencies
 - R
 - R Studio
+- R Markdown
